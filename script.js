@@ -29,9 +29,9 @@ function generatePassword(){
   novaSenha = pass;
 }
 
-function copyPassword(){
-  alert("Senha copiada com sucesso!")
-  location.reload();
-  navigator.clipboard.writeText(novaSenha);
+// function copyPassword(){
+//   alert("Senha copiada com sucesso! \n OBS: Caso ")
+//   location.reload();
+//   navigator.clipboard.writeText(novaSenha);
   
-}
+// }
